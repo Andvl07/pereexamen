@@ -1,7 +1,5 @@
-
 public class Main {
     public static void main(String[] args) { // Главный метод программы
-
         // Создаем банк
         Bank bank = new Bank(); // Создаем новый объект Bank
 
